@@ -1,0 +1,18 @@
+References:
+
+
+1. https://www.datacamp.com/community/tutorials/argument-parsing-in-python?utm_source=adwords_ppc&utm_campaignid=1455363063&utm_adgroupid=65083631748&utm_device=c&utm_keyword=&utm_matchtype=b&utm_network=g&utm_adpostion=&utm_creative=332602034358&utm_targetid=dsa-429603003980&utm_loc_interest_ms=&utm_loc_physical_ms=9062177&gclid=CjwKCAjwkoz7BRBPEiwAeKw3qzbRRGaRVYA5x38dh07pSZL2zYw9RVDerM1s4SNTliTbC6EcpGsGHhoCsGAQAvD_BwE
+-->> to get argument parser
+
+2. https://www.geeksforgeeks.org/binary-search/
+--> binary search for q value in kl
+
+3. https://stats.stackexchange.com/questions/12232/calculating-the-parameters-of-a-beta-distribution-using-the-mean-and-variance
+--> to see alpha, beta in terms of mean and variance of beta distribution
+
+4. Also used stack overflow answers for numpy and python syntax.
+
+
+
+
+
